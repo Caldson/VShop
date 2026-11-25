@@ -1,0 +1,10 @@
+{
+    "testabc": {
+        "name": "Test",
+        "description": "测试商品",
+        "age": 0,
+        "photo": "https://xsmmc.caldson.us.ci/XRingLogo.png",
+        "installer": "https://xsmmc.caldson.us.ci/XRingLogo.png",
+        "price": 0.1
+    }
+}
